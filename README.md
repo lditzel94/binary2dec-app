@@ -25,3 +25,6 @@ restricciones:
 - Todo el código debe estar implementado en inglés
 - Se deberá entregar los archivos de test necesarios que cumplan con los requerimientos de las historias de usuario. Los mismos deben estar ubicados en la carpeta test proporcionada
 - Mantener una estructura organizada de código por carpetas
+- Se deberá trabajar en una rama aparte por cada feature a desarrollar, las mismas serán gestionadas por el release manager
+- Utilizar el enlace proporcionado en caso de tener dudas con el sistema binario
+- Cada issue deberá moverse a entre las columnas disponibles del tablero según la etapa de desarrollo en la que se encuentre
